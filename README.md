@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bohdanza
-- 👀 I’m interested in programming on c#/c++/python
+- 👀 I’m interested in programming on c#/c++/python and game development
 - 🌱 I’m currently learning c# language and monogame framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
