@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bohdanza
 - 👀 I’m interested in programming on c#/c++/python and game development
-- 🌱 I’m currently learning c# language and monogame framework
+- 🌱 I’m currently learning well what?
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my e-mail is bohdanza87@gmail.com. Also my phone number is +380965519188 and you can contact me using Telegram.
 
