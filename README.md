@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bohdanza
 - 👀 I’m interested in programming on c#/c++, game development and olimpiad programming
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning rendering algorithms and other cool math stuff 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my e-mail is bohdanza87@gmail.com.
