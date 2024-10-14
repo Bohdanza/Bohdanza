@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Bohdanza
-- 👀 I’m interested in programming on c#/c++, game development and olimpiad programming
+- 👀 I’m interested in programming on c#/c++, olimpiad programming etc
 - 🌱 I’m currently learning SFML 
-- 📫 How to reach me: my e-mail is bohdanza87@gmail.com.
+- 📫 My e-mail is bohdanza87@gmail.com.
