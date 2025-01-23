@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Bohdanza
 - 👀 I’m interested in programming on c#/c++, olimpiad programming etc
-- 🌱 I’m currently learning SFML 
+- 🌱 I’m currently learning js and phaser
 - 📫 My e-mail is bohdanza87@gmail.com.
